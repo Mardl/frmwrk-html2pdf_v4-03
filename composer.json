@@ -1,0 +1,19 @@
+{
+    "name": "frameworks/html2pdf_v4-03",
+    "type": "package",
+    "description": "html2pdf_v4-03 Library",
+    "homepage": "http://repo.dreiwerken.intern/frameworks/html2pdf_v4-03",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@repo.dreiwerken.intern:frameworks/html2pdf_v4-03.git"
+        }
+
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
