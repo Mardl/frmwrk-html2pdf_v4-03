@@ -1,12 +1,11 @@
 {
-    "name": "frameworks/html2pdf_v4-03",
+    "name": "Mardl/frmwrks-html2pdf_v4-03",
     "type": "package",
     "description": "html2pdf_v4-03 Library",
-    "homepage": "http://repo.dreiwerken.intern/frameworks/html2pdf_v4-03",
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@repo.dreiwerken.intern:frameworks/html2pdf_v4-03.git"
+            "url": "git@github.com:Mardl/frmwrk-html2pdf_v4-03.git"
         }
 
     ],
