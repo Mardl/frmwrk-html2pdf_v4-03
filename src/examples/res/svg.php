@@ -1,3 +1,4 @@
+<?php ?>
 <page>
     <draw style="margin: auto; width:150mm; height:100mm; background: #000000; border: solid 0.5mm #777777;">
         <line    style="stroke:#FF0000; stroke-width:1mm" x1="10mm" y1="10mm" x2="140mm" y2="10mm" >

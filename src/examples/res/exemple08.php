@@ -1,3 +1,4 @@
+<?php ?>
 <style type="text/css">
 <!--
 table

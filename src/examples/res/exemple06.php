@@ -1,3 +1,4 @@
+<?php ?>
 <link type="text/css" href="./res/exemple06.css" rel="stylesheet" >
 <style type="text/css">
 <!--

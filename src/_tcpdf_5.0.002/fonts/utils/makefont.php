@@ -57,7 +57,7 @@
  */
 function MakeFont($fontfile, $fmfile, $embedded=true, $enc='cp1252', $patch=array()) {
 	//Generate a font definition file
-	set_magic_quotes_runtime(0);
+//	set_magic_quotes_runtime(0);
 	ini_set('auto_detect_line_endings', '1');
 	if (!file_exists($fontfile)) {
 		die('Error: file not found: '.$fontfile);
@@ -607,4 +607,4 @@ if (count($arg) >= 3) {
 } else {
 	print "Usage: makefont.php <ttf/otf/pfb file> <afm/ufm file> <encoding> <patch>\n";
 }
-?>
+
